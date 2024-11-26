@@ -1,7 +1,0 @@
-AIzaSyCi8aB_d1asu4N5NDj-WGO0eeY5407HPFs
-MongoDB: usuário: mariiangeloni - Senha: RacfrrbzeE3F1b4a
-
-mongodb+srv://mariiangeloni:RacfrrbzeE3F1b4a@cluster0.fp72j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-
-//ESSES ARQUIVOS DEVEM SER DELETADOS!
